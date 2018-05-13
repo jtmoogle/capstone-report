@@ -1,7 +1,7 @@
-# capstone-report
-Project 7: Capstone Project : Predicting US High School Graduation Success
-Author: jtmoogle @github.com   
-Contanct info: jtmoogle@gmail.com for any questions or suggestions
+## Machine Learning Engineer Nanodegree 
+### Project 7: Capstone Project : Predicting US High School Graduation Success
+> Author: jtmoogle @github.com   
+> Contanct info: jtmoogle@gmail.com for any questions or suggestions
 
 
 README.md [README.md]( https://github.com/jtmoogle/capstone-report/blob/master/README.md)
@@ -16,9 +16,8 @@ Files are available for review
    - [hsgraduation.py](https://github.com/jtmoogle/capstone-report/blob/master/jtmoogle/hsgraduation.py)
    - [runme.py](https://github.com/jtmoogle/capstone-report/blob/master/jtmoogle/runme.py)
 - (4) Data files https://github.com/jtmoogle/capstone-report/tree/master/jtmoogle/data
-- Data File: [GRADUATION_WITH_CENSUS.csv](https://github.com/jtmoogle/capstone-report/blob/master/jtmoogle/data/GRADUATION_WITH_CENSUS.csv)
-- Data Definition: [ALL_DATA_SCHEMA_M.pdf](https://github.com/jtmoogle/capstone-report/blob/master/jtmoogle/data/ALL_DATA_SCHEMA_M.pdf)
-
+   - Data File: [GRADUATION_WITH_CENSUS.csv](https://github.com/jtmoogle/capstone-report/blob/master/jtmoogle/data/GRADUATION_WITH_CENSUS.csv)
+   - Data Definition: [ALL_DATA_SCHEMA_M.pdf](https://github.com/jtmoogle/capstone-report/blob/master/jtmoogle/data/ALL_DATA_SCHEMA_M.pdf)
 - (5)  [runme.ipynb ](https://github.com/jtmoogle/capstone-report/blob/master/runme.ipynb)
 
 FYI, 
@@ -55,14 +54,12 @@ The capstone report pulls content directly from output files and images located 
    4. Manually click top menu "Cell" -> "Run All Below"
 
 Note: Software versions
-------------------------------
---> IPython version: 6.2.1
---> numpy version: 1.14.3
---> pandas version: 0.22.0
---> python version: 3.5.5
---> scikit-learn version: 0.19.1
---> sys version: 3.5.5 |Anaconda, Inc.| (default, Mar 12 2018, 17:44:09) [MSC v.1900 64 bit (AMD64)]
---> tensorflow version: 1.8.0
-------------------------------
+- IPython version: 6.2.1
+- numpy version: 1.14.3
+- pandas version: 0.22.0
+- python version: 3.5.5
+- scikit-learn version: 0.19.1
+- sys version: 3.5.5 |Anaconda, Inc.| (default, Mar 12 2018, 17:44:09) [MSC v.1900 64 bit (AMD64)]
+- tensorflow version: 1.8.0
 
 
