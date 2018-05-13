@@ -1,0 +1,28 @@
+                      OLS Regression Results                      
+Dep. Variable:   ,ALL_RATE_1112   ,  R-squared:         ,   0.980 
+Model:           ,OLS             ,  Adj. R-squared:    ,   0.980 
+Method:          ,Least Squares   ,  F-statistic:       ,3.647e+04
+Date:            ,Sat, 12 May 2018,  Prob (F-statistic):,  0.00   
+Time:            ,21:19:10        ,  Log-Likelihood:    , -38004. 
+No. Observations:,  9755          ,  AIC:               ,7.603e+04
+Df Residuals:    ,  9742          ,  BIC:               ,7.613e+04
+Df Model:        ,    13          ,                     ,         
+Covariance Type: ,nonrobust       ,                     ,         
+                             ,   coef   , std err ,    t    ,P>|t| ,  [0.025 ,  0.975] 
+pct_Tot_Occp_Units_CEN_2010  ,    0.3504,    0.011,   31.446, 0.000,    0.329,    0.372
+pct_NH_NHOPI_alone_CEN_2010  ,   -0.5520,    0.495,   -1.114, 0.265,   -1.523,    0.419
+Aggregate_HH_INC_ACS_08_12   , 1.664e-08, 2.43e-09,    6.843, 0.000, 1.19e-08, 2.14e-08
+pct_NH_AIAN_alone_ACS_08_12  ,   -0.2153,    0.017,  -12.750, 0.000,   -0.248,   -0.182
+MBL_COHORT_1112              ,   -0.0033,    0.000,   -8.491, 0.000,   -0.004,   -0.003
+pct_Pop_Under_5_CEN_2010     ,   -0.3329,    0.081,   -4.130, 0.000,   -0.491,   -0.175
+pct_Prs_Blw_Pov_Lev_ACS_08_12,    0.0165,    0.016,    1.019, 0.308,   -0.015,    0.048
+pct_Age5p_WGerman_ACS_08_12  ,    0.9944,    0.261,    3.809, 0.000,    0.483,    1.506
+pct_PUB_ASST_INC_ACS_08_12   ,   -0.2389,    0.054,   -4.409, 0.000,   -0.345,   -0.133
+pct_Females_CEN_2010         ,    1.0530,    0.020,   53.583, 0.000,    1.015,    1.092
+pct_Age5p_German_ACS_08_12   ,   -0.7203,    0.265,   -2.719, 0.007,   -1.240,   -0.201
+Med_House_value_ACS_08_12    ,  8.88e-06, 1.26e-06,    7.039, 0.000, 6.41e-06, 1.14e-05
+pct_NH_Blk_alone_CEN_2010    ,   -0.1202,    0.010,  -12.347, 0.000,   -0.139,   -0.101
+Omnibus:      ,1646.451,  Durbin-Watson:     ,   1.818 
+Prob(Omnibus):, 0.000  ,  Jarque-Bera (JB):  ,27211.480
+Skew:         , 0.294  ,  Prob(JB):          ,    0.00 
+Kurtosis:     ,11.161  ,  Cond. No.          ,5.18e+08 

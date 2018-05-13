@@ -1,0 +1,23 @@
+               rgs_names  train_time  test_time  explained_variance_score  \
+1  RandomForestRegressor    0.113333   0.000000                  0.221048   
+4                  Ridge    0.000000   0.000000                  0.193509   
+0       LinearRegression    0.000000   0.000000                  0.193160   
+5                    SVR    1.000000   1.000000                  0.006626   
+2    KNeighborsRegressor    0.006667   0.014284                  0.168720   
+3  DecisionTreeRegressor    0.019999   0.000000                  0.367086   
+
+   mean_absolute_error  mean_squared_error  root_mean_squared_error  \
+1             7.673474          111.035467                10.537337   
+4             7.719673          114.659658                10.707925   
+0             7.717334          114.707197                10.710145   
+5             8.502477          151.306230                12.300660   
+2             9.528559          166.070441                12.886832   
+3             9.744881          198.049744                14.073015   
+
+   median_absolute_error  r2_score  
+1               5.667667  0.218501  
+4               5.973336  0.192867  
+0               5.959865  0.192513  
+5               5.813294  0.065085  
+2               7.066667  0.169889  
+3               6.800000  0.387051  
